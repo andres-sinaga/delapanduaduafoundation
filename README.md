@@ -55,7 +55,7 @@
          <h3>GOTONG ROYONG</h3>
     </div>
    
-    <div class="slide" style="background-image: url('img/slide3.jpEg');"> 
+    <div class="slide" style="background-image: url('img/slide3.jpeg');"> 
          <h3>CAMPING INTERNAL</h3>
     </div>
     
